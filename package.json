@@ -5,10 +5,14 @@
   "keywords": [
     "promise",
     "api",
-    "any-promise",
+    "anypromise",
     "angular"
   ],
   "homepage": "https://github.com/argo-rest/any-promise-angular",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/argo-rest/any-promise-angular.git"
+  },
   "main": "src/any-promise-angular.js",
   "author": "Sébastien Cevey <seb@cine7.net>",
   "license": "Apache-2",
@@ -23,6 +27,6 @@
     }
   },
   "devDependencies": {
-    "jspm": "^0.10.4"
+    "jspm": "^0.10.6"
   }
 }

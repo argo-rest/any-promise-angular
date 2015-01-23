@@ -10,7 +10,7 @@ with [jspm](https://jspm.io) and loaded via
 [SystemJS](https://github.com/systemjs/systemjs) as follows:
 
 ``` javascript
-import 'any-promise-http';
+import 'any-promise-angular';
 
 import angular from 'angular';
 
